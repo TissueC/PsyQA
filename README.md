@@ -2,6 +2,8 @@
 
 一个中文心理健康支持问答数据集，提供了丰富的援助策略标注。可用于生成富有援助策略的长咨询文本。
 
+与另一个仓库相同： https://github.com/thu-coai/PsyQA
+
 This repo is for the paper: **PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support**
 
 Accepted by Finding of ACL 2021 [arxiv paper link](https://arxiv.org/abs/2106.01702)
